@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "486187619808",
+    "project_id": "user-f0d39",
+    "storage_bucket": "user-f0d39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486187619808:android:c8613cd71fc1e96c3f8785",
+        "android_client_info": {
+          "package_name": "com.example.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486187619808-r5436ro4bqmdf6ctgvj3ttjk14khi56v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMc491q_rRs_l-oxxptVznJlZxAeMJ2z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486187619808-r5436ro4bqmdf6ctgvj3ttjk14khi56v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486187619808:android:cb56bbdf1104922d3f8785",
+        "android_client_info": {
+          "package_name": "com.example.sqllite_con"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486187619808-r5436ro4bqmdf6ctgvj3ttjk14khi56v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMc491q_rRs_l-oxxptVznJlZxAeMJ2z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486187619808-r5436ro4bqmdf6ctgvj3ttjk14khi56v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
